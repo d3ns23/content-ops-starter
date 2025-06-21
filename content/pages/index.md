@@ -304,15 +304,6 @@ sections:
     text: |
       FACEBOOK, INSTAGRAM AND TIKTOK
     actions:
-      - type: Link
-        label: Facebook
-        altText: Facebook
-        url: '/https://www.facebook.com/arisanakamura0208'
-        showIcon: true
-        icon: facebook
-        iconPosition: left
-        style: secondary
-        elementId: ''
       - type: Button
         label: Get started
         altText: ''
@@ -328,6 +319,15 @@ sections:
         url: /
         showIcon: true
         icon: instagram
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Link
+        label: Facebook
+        altText: Facebook
+        url: '/https://www.facebook.com/arisanakamura0208'
+        showIcon: true
+        icon: facebook
         iconPosition: left
         style: secondary
         elementId: ''
