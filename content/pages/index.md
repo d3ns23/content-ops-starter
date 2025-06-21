@@ -68,10 +68,13 @@ sections:
       - type: FeaturedItem
         title: JEWELRY
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Discover finely crafted jewelry that blends timeless design with
+          lasting value. From everyday elegance to statement pieces, our
+          collection offers something extraordinary for every style and
+          occasion.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
