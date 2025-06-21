@@ -316,7 +316,7 @@ sections:
       - type: Link
         label: Instagram
         altText: Instagram
-        url: /
+        url: '/https://www.instagram.com/ysgemsco.ltd/'
         showIcon: true
         icon: instagram
         iconPosition: left
