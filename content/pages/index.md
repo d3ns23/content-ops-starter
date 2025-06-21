@@ -304,7 +304,7 @@ sections:
     text: |
       FACEBOOK, INSTAGRAM AND TIKTOK
     actions:
-      - label: Get started
+      - label: CONTACT US
         url: /
         icon: arrowRight
         iconPosition: right
