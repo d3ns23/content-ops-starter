@@ -179,7 +179,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - title: DIAMOND
         tagline: 株式会社 Y'S GEMS
