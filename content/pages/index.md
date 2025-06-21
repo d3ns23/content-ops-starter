@@ -184,8 +184,13 @@ sections:
       - title: DIAMOND
         tagline: 株式会社 Y'S GEMS
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+
+          Our diamonds are more than adornment they’re a smart investment in
+          enduring luxury. Ethically sourced and certified for quality, each
+          stone offers unmatched brilliance, rarity, and long-term value. A
+          legacy asset you can wear.
+
         image:
           url: /images/2111d2a4451b0194040bf3d2936c017a.jpg
           altText: Placeholder Image
