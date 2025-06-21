@@ -183,7 +183,7 @@ sections:
     items:
       - title: DIAMOND
         tagline: 株式会社 Y'S GEMS
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
 
           Our diamonds are more than adornment they’re a smart investment in
