@@ -211,7 +211,7 @@ sections:
         type: FeaturedItem
       - title: GEM STONES
         tagline: 株式会社 Y'S GEMS
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
 
           Each gemstone in our collection is a unique marvel of nature prized
