@@ -313,13 +313,6 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
-      - label: VISIT OUR LINKS
-        url: 'https://www.facebook.com/arisanakamura0208'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
       - type: Button
         label: Get started
         altText: ''
