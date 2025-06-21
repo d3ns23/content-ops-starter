@@ -153,7 +153,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: This is a badge株式会社 Y'S GEMS
       color: text-primary
       styles:
         self:
