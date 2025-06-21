@@ -17,7 +17,7 @@ sections:
       your own refined taste.
 
     actions:
-      - label: Get started
+      - label: CONTACT US
         altText: ''
         url: /
         showIcon: false
