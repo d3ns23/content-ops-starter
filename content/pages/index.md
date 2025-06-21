@@ -126,7 +126,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: ONLINE SELLING
-        subtitle: Faster
+        subtitle: WE SHIP WORLDWIDE
         text: >+
 
           Browse, select, and purchase luxury jewelry from the comfort of your
