@@ -8,10 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      At **株式会社 Y'S GEMS**, we offer an exquisite collection of **GOLD,
+      DIAMONDS, GEM STONES**, and **LUXURY ITEMS** crafted to reflect elegance,
+      rarity, and timeless beauty. Every piece in our collection is
+      hand-selected for its brilliance, quality, and authenticity whether you’re
+      investing in heirloom jewelry, gifting a cherished memory, or indulging in
+      your own refined taste.
+
     actions:
       - label: Get started
         altText: ''
