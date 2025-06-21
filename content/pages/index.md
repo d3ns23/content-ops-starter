@@ -212,8 +212,13 @@ sections:
       - title: GEM STONES
         tagline: 株式会社 Y'S GEMS
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+
+          Each gemstone in our collection is a unique marvel of nature prized
+          not only for its beauty, but for its rarity and long-term value. From
+          sapphires to emeralds, our ethically sourced gems are curated for
+          those who seek color, character, and lasting investment.
+
         image:
           url: /images/041f749b28d9ff14e4e76674222c7fce.jpg
           altText: Placeholder image
