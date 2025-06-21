@@ -67,7 +67,7 @@ sections:
     items:
       - type: FeaturedItem
         title: JEWELRY
-        subtitle: Numbers Done
+        subtitle: OFFERS LUXURY ITRMS
         text: >+
 
           Discover finely crafted jewelry that blends timeless design with
