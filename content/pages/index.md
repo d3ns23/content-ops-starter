@@ -323,20 +323,20 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Instagram
-        altText: Instagram
-        url: /
-        showIcon: true
-        icon: instagram
-        iconPosition: left
-        style: secondary
-        elementId: ''
-      - type: Link
         label: Facebook
         altText: Facebook
         url: '/https://www.facebook.com/arisanakamura0208'
         showIcon: true
         icon: facebook
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Link
+        label: Instagram
+        altText: Instagram
+        url: /
+        showIcon: true
+        icon: instagram
         iconPosition: left
         style: secondary
         elementId: ''
