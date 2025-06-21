@@ -310,6 +310,15 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+      - type: Link
+        label: Facebook
+        altText: Facebook
+        url: /
+        showIcon: true
+        icon: facebook
+        iconPosition: left
+        style: secondary
+        elementId: ''
       - label: VISIT OUR LINKS
         url: 'https://www.facebook.com/arisanakamura0208'
         showIcon: true
@@ -324,15 +333,6 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Link
-        label: Facebook
-        altText: Facebook
-        url: /
-        showIcon: true
-        icon: facebook
-        iconPosition: left
         style: secondary
         elementId: ''
     media:
