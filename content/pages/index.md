@@ -182,7 +182,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: DIAMOND
-        tagline: This is the tagline
+        tagline: 株式会社 Y'S GEMS
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
