@@ -301,8 +301,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |
-      FACEBOOK, INSTAGRAM AND TIKTOK
+    text: ''
     actions:
       - type: Link
         label: Facebook
