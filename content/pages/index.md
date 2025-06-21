@@ -311,7 +311,7 @@ sections:
         style: secondary
         type: Button
       - label: VISIT OUR LINKS
-        url: /
+        url: 'https://www.facebook.com/arisanakamura0208'
         showIcon: true
         icon: arrowRight
         iconPosition: right
