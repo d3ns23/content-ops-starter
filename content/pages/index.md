@@ -307,7 +307,7 @@ sections:
       - type: Link
         label: Facebook
         altText: Facebook
-        url: /
+        url: '/https://www.facebook.com/arisanakamura0208'
         showIcon: true
         icon: facebook
         iconPosition: left
