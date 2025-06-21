@@ -173,7 +173,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: COLLECTION
       color: text-primary
       styles:
         self:
