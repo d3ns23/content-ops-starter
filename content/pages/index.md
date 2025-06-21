@@ -322,6 +322,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        label: Instagram
+        altText: Instagram
+        url: /
+        showIcon: true
+        icon: instagram
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       url: /images/69097e89-0570-4544-be98-b44411bdbeaf.jpg
       altText: Fun feature preview
