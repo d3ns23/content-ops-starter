@@ -331,6 +331,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: '/https://www.facebook.com/arisanakamura0208'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       url: /images/69097e89-0570-4544-be98-b44411bdbeaf.jpg
       altText: Fun feature preview
