@@ -240,9 +240,13 @@ sections:
       - title: GOLD
         tagline: 株式会社 Y'S GEMS
         subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: >+
+
+          Gold has been a symbol of wealth and security for centuries. Our
+          finely crafted gold jewelry blends lasting beauty with tangible value
+          a timeless investment you can wear. Hallmarked for purity, designed
+          for legacy.
+
         image:
           url: /images/171f49ed087ba4ef209ab3ba24b8a68d.jpg
           altText: Placeholder image
