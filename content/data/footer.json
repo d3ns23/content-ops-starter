@@ -84,6 +84,13 @@
             "url": "/https://www.facebook.com/arisanakamura0208",
             "icon": "facebook",
             "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "/https://www.instagram.com/ysgemsco.ltd/",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [
