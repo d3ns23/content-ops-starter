@@ -210,7 +210,7 @@ sections:
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/041f749b28d9ff14e4e76674222c7fce.jpg
           altText: Placeholder image
           styles:
             self:
