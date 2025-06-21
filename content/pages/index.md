@@ -66,7 +66,7 @@ sections:
     subtitle: '"A Touch of Grace in Every Detail."'
     items:
       - type: FeaturedItem
-        title: 500k
+        title: JEWELRY
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
