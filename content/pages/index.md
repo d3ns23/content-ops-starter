@@ -153,7 +153,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: '/https://www.facebook.com/arisanakamura0208'
         showIcon: false
         icon: arrowRight
         iconPosition: right
