@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: ''
+      label: 株式会社 Y'S GEMS
       color: text-primary
       type: Badge
     elementId: ''
