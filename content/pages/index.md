@@ -305,7 +305,7 @@ sections:
       FACEBOOK, INSTAGRAM AND TIKTOK
     actions:
       - label: CONTACT US
-        url: /
+        url: 'https://www.facebook.com/arisanakamura0208'
         icon: arrowRight
         iconPosition: right
         style: secondary
