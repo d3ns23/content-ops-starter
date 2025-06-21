@@ -205,7 +205,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: GEM STONES
-        tagline: Nature’s Colors. Your Signature.
+        tagline: 株式会社 Y'S GEMS
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
