@@ -239,7 +239,7 @@ sections:
         type: FeaturedItem
       - title: GOLD
         tagline: 株式会社 Y'S GEMS
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
 
           Gold has been a symbol of wealth and security for centuries. Our
