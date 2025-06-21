@@ -179,7 +179,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: '"Adorn Yourself in Timeless Luxury."'
     items:
       - title: DIAMOND
         tagline: 株式会社 Y'S GEMS
