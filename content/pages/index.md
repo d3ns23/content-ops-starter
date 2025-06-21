@@ -300,7 +300,7 @@ sections:
       text: FIND US
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: ''
     text: |
       FACEBOOK, INSTAGRAM AND TIKTOK
     actions:
