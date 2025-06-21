@@ -67,7 +67,7 @@ sections:
     items:
       - type: FeaturedItem
         title: JEWELRY
-        subtitle: OFFERS LUXURY ITRMS
+        subtitle: OFFERS LUXURY ITEM
         text: >+
 
           Discover finely crafted jewelry that blends timeless design with
