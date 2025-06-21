@@ -19,7 +19,7 @@ sections:
     actions:
       - label: CONTACT US
         altText: ''
-        url: /
+        url: '/https://www.facebook.com/arisanakamura0208'
         showIcon: false
         icon: arrowRight
         iconPosition: right
