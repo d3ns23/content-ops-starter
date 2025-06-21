@@ -1,5 +1,5 @@
 ---
-title: GEM STONES
+title: GEM STONE
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
