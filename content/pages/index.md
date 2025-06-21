@@ -305,7 +305,7 @@ sections:
       FACEBOOK, INSTAGRAM AND TIKTOK
     actions:
       - type: Button
-        label: Get started
+        label: FACEBOOK
         altText: ''
         url: '/https://www.facebook.com/arisanakamura0208'
         showIcon: false
