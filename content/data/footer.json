@@ -4,12 +4,12 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "\nArt You Can Wear. Value You Can Trust.\n\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
             {
-                "label": "Features",
+                "label": "GOLD",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "DIAMOND",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -26,7 +26,7 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
+                "label": "GEM STONES",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -37,10 +37,10 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "",
         "links": [
             {
-                "label": "Careers",
+                "label": "",
                 "altText": "careers page",
                 "url": "/careers",
                 "icon": "arrowRight",
@@ -49,7 +49,7 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -61,28 +61,18 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "/https://www.facebook.com/arisanakamura0208",
+            "icon": "facebook",
+            "elementId": ""
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "/https://www.instagram.com/ysgemsco.ltd/",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [
@@ -103,7 +93,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
