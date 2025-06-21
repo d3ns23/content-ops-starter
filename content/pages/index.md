@@ -304,15 +304,6 @@ sections:
     text: |
       FACEBOOK, INSTAGRAM AND TIKTOK
     actions:
-      - type: Button
-        label: FACEBOOK
-        altText: ''
-        url: '/https://www.facebook.com/arisanakamura0208'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Link
         label: Facebook
         altText: Facebook
