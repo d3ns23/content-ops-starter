@@ -26,15 +26,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: VISIT OUR LINKS
-        altText: ''
-        url: '/https://www.facebook.com/arisanakamura0208'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/3b23395e-d7a4-4b1a-a7b6-7d94c5a61164.jpg
       altText: Unblock your team boost your time to production preview
